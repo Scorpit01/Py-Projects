@@ -2,7 +2,7 @@ import random
 
 #tried using the english-words python library, but it had some important features missing and the library is huge :(
 #so with the missing features it would make the game impossible so, I just stuck with establishing a list myself :)
-#As this is an open source, feel free to add more according to your liking :)
+#As this is open source, feel free to add more according to your liking :)
 
 words = ["chocolates", "table", "chair", "pillow",
          "bed", "laptop", "card", "jacket", "keyboard", "computer", "key",
